@@ -31,7 +31,12 @@ The main toolbox performs the following tasks:
                                                                          
                                                                          
 **How to cite this toolbox?**                                             
-   - Allahvirdi-Zadeh, "Shadow Toolbox": Detecting GNSS satellites in the shadow of the Earth and removing from their observations from the RINEX file, https://doi.org/10.13140/RG.2.2.15323.08482    
+   - Allahvirdi-Zadeh, "Shadow Toolbox": Detecting GNSS satellites in the shadow of the Earth and removing from their observations from the RINEX file, https://doi.org/10.13140/RG.2.2.15323.08482   
+
+**How to use?**
+
+Run main.m and select the your sp3 file (a sample of sp3 file is provided: igs21385.sp3).
+
 -------------------------------------------------------------------------
                                                                          
   Author: **Amir Allahvirdi-Zadeh**                                          
